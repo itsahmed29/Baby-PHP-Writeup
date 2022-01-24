@@ -14,7 +14,7 @@ We are given this website which when we open we get a PHP code
 
 ![Untitled](https://user-images.githubusercontent.com/55143192/150676282-512e0d15-93b0-4c67-8756-b4d3ad63d77c.png)
 
-Reading through the code we can see that we are dealing with `preg_replace` function that means whatever we supply as a GET parameter in the URL will be replaced with the characters k?O!.o and a space. I spent quite a lot of time trying to figure out how to bypass this but I didn’t manage to get anything ( :3 ). However after reading the hint 
+Reading through the code we can see that we are dealing with `preg_replace` function that means anything we supply via the GET parameter other than [k?O!.o ] will be deleted. I spent quite a lot of time trying to figure out how to bypass this but I didn’t manage to get anything ( :3 ). However after reading the hint 
 
 ![2](https://user-images.githubusercontent.com/55143192/150676278-5b2fe5ef-00d8-449f-91b1-871f29026b02.png)
 
